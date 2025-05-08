@@ -1,4 +1,4 @@
-function gastoCombustivel(tempo1, velocidadeMedia1){
+function gastoCombustivel(tempo, velocidadeMedia){
     return (tempo * velocidadeMedia) / 12
 }
 
